@@ -49,3 +49,8 @@ make.bat
 Makefile
 
 doc-dev
+
+node_modules
+.history
+
+**/**/migrations/**
