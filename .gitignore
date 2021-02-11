@@ -54,3 +54,4 @@ node_modules
 .history
 
 **/**/migrations/**
+***/**/migrations/***
